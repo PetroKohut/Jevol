@@ -1,0 +1,8 @@
+body {
+  background-image: url("fotoPlant.jpg");
+  background-size: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 400;
+  width: 400;
+}
